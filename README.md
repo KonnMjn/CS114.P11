@@ -23,9 +23,8 @@
 
 # Quá trình: 
 
-## Đồ án cuối kỳ:
-* **Tên đồ án:** 
-* **Thư mục:**
+## Đồ án cuối kỳ: 
+* **Tên đồ án: Dự đoán điểm từ dữ liệu Wecode, Nhận diện hãng xe qua ảnh chụp** 
 
 ## Thành viên nhóm: 
 | STT    | MSSV          | Họ và Tên              | Github                                                  | Email                   |
