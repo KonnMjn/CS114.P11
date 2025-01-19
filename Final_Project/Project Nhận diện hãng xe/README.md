@@ -1,4 +1,4 @@
-**- Thay các đường dẫn liên quan đến file dữ liệu ảnh, file csv bằng đường dẫn tương ứng trong máy**
+**- Thay các đường dẫn liên quan đến file dữ liệu ảnh, file csv bằng đường dẫn tương ứng trong máy**  
 **- Chạy file theo thứ tự:** 
   + DatasetStat
   + CreateSplit
